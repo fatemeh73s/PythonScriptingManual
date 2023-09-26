@@ -13,7 +13,7 @@ This section describes basic Python specification of CC3D simulations and built-
 and usage in CC3D project structures, arbitrary Python projects and a Jupyter Notebook.
 
 .. warning::
-hello this is how you edit manual 
+hi second edit , you can edit here
 
 
 Overview
